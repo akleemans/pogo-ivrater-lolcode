@@ -4,4 +4,4 @@ A Pokemon Go IV rater in lolcode, see [this blog post](https://www.kleemans.ch/w
 
 Use with [repl.it](https://repl.it/languages/lolcode), example:
 
-![](https://raw.github.com/captainfox/pogo-ivrater-lolcode/master/ivrater.gif)
+![](https://raw.github.com/akleemans/pogo-ivrater-lolcode/master/ivrater.gif)
